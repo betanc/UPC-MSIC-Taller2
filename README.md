@@ -1,7 +1,8 @@
 # UPC-MSIC-Taller2
 Identificación de vulerabilidades de bases de datos y OSINT
 
-1. Identificación de vulnerabilidades ORACLE VErsión 12.2.0.1
+1. Identificación de vulnerabilidades ORACLE Versión 12.2.0.1
+
 ![VulnerabilidadesVersionOracle](https://user-images.githubusercontent.com/50051493/57171721-b47f8700-6ddc-11e9-9565-b9ec2aa885fa.PNG)
 
 
@@ -21,11 +22,10 @@ https://www.incibe-cert.es/alerta-temprana/avisos-seguridad/actualizaciones-crit
 Evidencia suscripción: 
 ![inscripcion incibe](https://user-images.githubusercontent.com/50051421/57171748-1213d380-6ddd-11e9-99a6-6818db51a263.PNG)
 
-Reporte Oracle:
+Reporte Oracle:<br/>
 ![reporte oracle](https://user-images.githubusercontent.com/50051421/57171749-1213d380-6ddd-11e9-8a04-d6e430887f02.PNG)
 
-
-h2><strong>2.4 Registro a Fuentes de inteligencia de Amenazas</strong></h2>
+<br/>
 <p><strong>Registro a OTX ALlien Vault:&nbsp;</strong></p>
 <p><strong><a href="https://otx.alienvault.com/">https://otx.alienvault.com/</a></strong></p>
 <p>&nbsp;</p>
