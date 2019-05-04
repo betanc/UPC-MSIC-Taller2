@@ -35,7 +35,7 @@ Confirmación de correo electrónico:<br/>
 Confirmación de correo electrónico
 ![osintotx0](https://user-images.githubusercontent.com/48939055/57171841-21dfe780-6dde-11e9-8126-417b861e8dcd.jpg)
 
-Confirmación de la suscripción al servicio OSINT
+Confirmación de la suscripción al servicio OTX de AllienVault
 ![osintotx00](https://user-images.githubusercontent.com/48939055/57171873-856a1500-6dde-11e9-9104-6ebb3ab1ff7e.jpg)
 
 
@@ -64,7 +64,7 @@ https://www.cvedetails.com/
 INCIBE:<br/>
 ![reporte oracle](https://user-images.githubusercontent.com/50051421/57171749-1213d380-6ddd-11e9-8a04-d6e430887f02.PNG)
 
-OSSIN:
+Servicio OTX de AllienVault:
 
 Navegación en reportes de inteligencia de amenazas:
 ![osintotx1](https://user-images.githubusercontent.com/48939055/57171842-21dfe780-6dde-11e9-86ea-d211915b32e0.jpg)
