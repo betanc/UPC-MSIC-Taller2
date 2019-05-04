@@ -44,6 +44,17 @@ Identificación de Amenazas sobre servicios Oracle Base de Datos:
 ![osintotx2](https://user-images.githubusercontent.com/48939055/57171843-21dfe780-6dde-11e9-87a8-6e83b9340fc0.jpg)
 
 
+<p><strong>Registro a X-orce xchange IBM</strong></p>
+
+https://exchange.xforce.ibmcloud.com/
+
+![ConfirmacionSuscripcion1](https://user-images.githubusercontent.com/50051493/57172051-9c116b80-6de0-11e9-8ee2-a2ae5e1bdc55.PNG)
+
+![ConfirmacionSuscripcion2](https://user-images.githubusercontent.com/50051493/57172052-a0d61f80-6de0-11e9-866c-0bdee2afd531.PNG)
+
+
+![ConfirmacionSuscripcion3](https://user-images.githubusercontent.com/50051493/57172056-a5023d00-6de0-11e9-9b2c-2b6122c910ca.PNG)
+
 
 <h2><strong>3. Reporte de la base de datos ORACLE en las Fuentes de inteligencia de Amenazas</strong></h2>
 
