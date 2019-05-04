@@ -71,3 +71,11 @@ Navegación en reportes de inteligencia de amenazas:
 
 Identificación de Amenazas sobre servicios Oracle Base de Datos:
 ![osintotx2](https://user-images.githubusercontent.com/48939055/57171843-21dfe780-6dde-11e9-87a8-6e83b9340fc0.jpg)
+
+
+Reporte de Amenzas ORACLE
+
+https://www.oracle.com/technetwork/security-advisory/cpujan2019verbose-5072807.html#DB
+
+![Reporte de vulnerabilidades ORACLE](https://user-images.githubusercontent.com/50051493/57172232-a0d71f00-6de2-11e9-83ea-e65aef360afa.PNG)
+
