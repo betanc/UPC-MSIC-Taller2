@@ -14,6 +14,11 @@ Identificación de vulerabilidades de bases de datos y OSINT
 ![SuscripciónPaloAlto1](https://user-images.githubusercontent.com/50051518/57171682-37eca880-6ddc-11e9-9d77-83d535d631b5.JPG)
 ![SuscripciónPaloAlto2](https://user-images.githubusercontent.com/50051518/57171687-463ac480-6ddc-11e9-8b79-3b992d06004c.JPG)
 
+https://www.incibe-cert.es/alerta-temprana/avisos-seguridad/actualizaciones-criticas-oracle-enero-2019
+
+![inscripcion incibe](https://user-images.githubusercontent.com/50051421/57171748-1213d380-6ddd-11e9-99a6-6818db51a263.PNG)
+![reporte oracle](https://user-images.githubusercontent.com/50051421/57171749-1213d380-6ddd-11e9-8a04-d6e430887f02.PNG)
+
 
 <h2><strong>3. Reporte de la base de datos ORACLE en las Fuentes de inteligencia de Amenazas</strong></h2>
 
