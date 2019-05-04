@@ -1,6 +1,10 @@
 # UPC-MSIC-Taller2
 Identificación de vulerabilidades de bases de datos y OSINT
 
+1. Identificación de vulnerabilidades ORACLE VErsión 12.2.0.1
+![VulnerabilidadesVersionOracle](https://user-images.githubusercontent.com/50051493/57171721-b47f8700-6ddc-11e9-9565-b9ec2aa885fa.PNG)
+
+
 <h2><strong>2. Registro a Fuentes de inteligencia de Amenazas</strong></h2>
 <p><strong>Registro a Palo Alto:&nbsp;</strong></p>
 <p><strong><a href="https://www.paloaltonetworks.com/">https://www.paloaltonetworks.com/</a></strong></p>
