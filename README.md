@@ -20,6 +20,26 @@ https://www.incibe-cert.es/alerta-temprana/avisos-seguridad/actualizaciones-crit
 ![reporte oracle](https://user-images.githubusercontent.com/50051421/57171749-1213d380-6ddd-11e9-8a04-d6e430887f02.PNG)
 
 
+h2><strong>2.4 Registro a Fuentes de inteligencia de Amenazas</strong></h2>
+<p><strong>Registro a OTX ALlien Vault:&nbsp;</strong></p>
+<p><strong><a href="https://otx.alienvault.com/">https://otx.alienvault.com/</a></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+Confirmación de correo electrónico
+![osintotx0](https://user-images.githubusercontent.com/48939055/57171841-21dfe780-6dde-11e9-8126-417b861e8dcd.jpg)
+
+Confirmación de la suscripción al servicio OSINT
+![osintotx00](https://user-images.githubusercontent.com/48939055/57171873-856a1500-6dde-11e9-9104-6ebb3ab1ff7e.jpg)
+
+Navegación en reportes de inteligencia de amenazas:
+![osintotx1](https://user-images.githubusercontent.com/48939055/57171842-21dfe780-6dde-11e9-86ea-d211915b32e0.jpg)
+
+Identificación de Amenazas sobre servicios Oracle Base de Datos:
+![osintotx2](https://user-images.githubusercontent.com/48939055/57171843-21dfe780-6dde-11e9-87a8-6e83b9340fc0.jpg)
+
+
+
 <h2><strong>3. Reporte de la base de datos ORACLE en las Fuentes de inteligencia de Amenazas</strong></h2>
 
 CVE DETAILS
